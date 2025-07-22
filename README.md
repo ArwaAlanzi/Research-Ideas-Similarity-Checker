@@ -9,7 +9,8 @@ A bilingual (English/Arabic) web application that helps researchers find semanti
 
 ## 🧠 What It Does
 
-**طابق** (Arabic for "match") uses the [Sentence-Transformers](https://www.sbert.net/) model `all-MiniLM-L6-v2` to compare your research idea to abstracts and titles from top scientific databases.
+**طابق** (Arabic for "match")
+uses the [Sentence-Transformers](https://www.sbert.net/) model `all-MiniLM-L6-v2` to compare your research idea to abstracts and titles from top scientific databases.
 
 It ranks results by **semantic similarity**, helping you:
 
@@ -40,7 +41,7 @@ It ranks results by **semantic similarity**, helping you:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/research-similarity-finder.git
+git clone https://github.com/ArwaAlanzi/research-similarity-finder.git
 cd research-similarity-finder
 ```
 
