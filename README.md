@@ -3,8 +3,6 @@
 
 A bilingual (English/Arabic) web application that helps researchers find semantically similar scientific papers from **Semantic Scholar**, **arXiv**, and **PubMed** using powerful AI embeddings.
 
-[![Streamlit App](https://img.shields.io/badge/Live%20App-Click%20Here-brightgreen)](https://your-app-url.com)
-
 ---
 
 ## 🧠 What It Does
